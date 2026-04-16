@@ -1,3 +1,7 @@
+Nome: Francisco Ferreira de Almeida
+rm: 20250437
+2 DS AMS
+
 Descrição do projeto
 Este sistema funciona como uma lista de tarefas digital. Ele permite que o usuário crie novas tarefas, visualize a lista completa, veja detalhes de um item específico, altere informações ou apague o que não for mais necessário. Tudo é gerenciado através de requisições que chegam ao servidor e são respondidas conforme o que foi solicitado.
 
