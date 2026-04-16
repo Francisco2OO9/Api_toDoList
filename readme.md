@@ -13,4 +13,8 @@ node src/app.js
 Depois disso, o servidor passa a escutar os pedidos que chegarem pelo endereço local do computador na porta 3000.
 
 Explicação da solução
-A ideia foi separar o código em partes diferentes para não misturar tudo. Um arquivo cuida apenas de como a tarefa se parece. Outro arquivo funciona como um estoque, onde as tarefas ficam guardadas em uma lista e podem ser manipuladas. Há também uma parte que serve para transformar as informações que chegam da internet em dados que o sistema entende e, por fim, uma parte que decide para onde enviar cada pedido com base no que o usuário quer fazer. Isso garante que, se eu precisar mudar a forma de salvar uma tarefa, não preciso mexer na parte que recebe os dados da internet.
+A ideia foi separar o código em partes diferentes para não misturar tudo. Um arquivo cuida apenas de como a tarefa se parece. Outro arquivo funciona como um estoque, onde as tarefas ficam guardadas em uma lista e podem ser manipuladas. Há também uma parte que serve para transformar as informações que chegam da internet em dados que o sistema entende e, por fim, uma parte que decide para onde enviar cada pedido com base no que o usuário quer fazer. Isso garante que, se eu precisar mudar a forma de salvar uma tarefa, não preciso mexer na parte que recebe os dados da internet.tes
+
+Link do video
+https://youtu.be/JE73J9ljGi8?si=BCctzBXcvBJ0S0Ix
+Perdão professor, estava sem microfone
